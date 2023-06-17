@@ -18,5 +18,6 @@ I am passionate about building intuitive and modern software solutions. I tend t
 - Java 
 
 ### Let's Connect!
+---
 ![Twitter (icon — Colour)](https://github.com/onwurahben/onwurahben/assets/49011942/b1e58013-000e-4657-9396-000dbeb67b1c)
 ![LinkedIn (icon — Colour)](https://github.com/onwurahben/onwurahben/assets/49011942/92c641d0-7a5a-4cb3-bfc8-9c36d744e3c5)

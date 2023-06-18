@@ -1,5 +1,5 @@
 
-![Frame](https://github.com/onwurahben/onwurahben/assets/49011942/690f5c90-3b5e-43b4-a1bb-4ae1044ad15a)
+![Frame](https://github.com/onwurahben/onwurahben/assets/49011942/48a297c4-56f8-42fb-b338-e23bf2cbeab0)
 
 ### Hi there 👋 Great to have you here!
 ---

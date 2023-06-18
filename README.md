@@ -1,4 +1,4 @@
-![header](https://github.com/onwurahben/onwurahben/assets/49011942/63a94abf-6313-418f-8dc4-54a1a9aa5c20)
+![header](https://github.com/onwurahben/onwurahben/assets/49011942/c284f4b9-64b6-4a22-942b-3d43351e68f2)
 
 
 ### Hi there 👋 Great to have you here!

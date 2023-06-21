@@ -12,9 +12,20 @@ I am passionate about building intuitive and modern software solutions. I tend t
 
 ### My Tech Stack
 ---
-- Flutter
+- Flutter/Dart
 - Kotlin
-- Java 
+- Java
+
+### My Projects
+---
+Kindly view the pinned repositories.
+
+### Blogs
+---
+I write on a variety of topics on my blogs, please check them out:
+
+- https://dreamspace.hashnode.dev/
+- https://medium.com/@O.ben
 
 ### Let's Connect!
 ---

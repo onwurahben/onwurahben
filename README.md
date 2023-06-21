@@ -20,4 +20,4 @@ I am passionate about building intuitive and modern software solutions. I tend t
 ---
 
 [![LinkedIn](Images/LinkedIn%20(icon%20—%20Colour).png)](https://www.linkedin.com/in/ben-onwurah/)
-[![Twitter (icon — Colour)](https://github.com/onwurahben/onwurahben/assets/49011942/b37216d4-9a99-464b-b4f7-80a080f7eb68)](https://twitter.com/_flutterbaby)
+[![Twitter](Images/Twitter%20(icon%20—%20Colour).png)](https://twitter.com/_flutterbaby)

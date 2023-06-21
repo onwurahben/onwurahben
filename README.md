@@ -19,5 +19,5 @@ I am passionate about building intuitive and modern software solutions. I tend t
 ### Let's Connect!
 ---
 
-[![LinkedIn](https://github.com/onwurahben/onwurahben/assets/49011942/a3b6dd89-713f-46d4-b881-d58940a60a97)](https://www.linkedin.com/in/ben-onwurah/)
+[![LinkedIn](Images/LinkedIn%20(icon%20—%20Colour).png)](https://www.linkedin.com/in/ben-onwurah/)
 [![Twitter (icon — Colour)](https://github.com/onwurahben/onwurahben/assets/49011942/b37216d4-9a99-464b-b4f7-80a080f7eb68)](https://twitter.com/_flutterbaby)

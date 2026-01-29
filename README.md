@@ -3,9 +3,9 @@
 ### Hi there 👋 Welcome to my GitHub!
 ---
 
-I am **Ben Onwurah**, an **Applied AI Engineer** specializing in production-ready AI systems that transform data, documents, and conversations into actionable intelligence.  
+I am **Ben Onwurah**, an **Applied AI Engineer** specializing in production-ready AI systems that transform data, documents, and conversations into actionable intelligence and useful tools.  
 
-I design and deploy **end-to-end AI pipelines** — from RAG systems and content automation to multimodal voice assistants and speech intelligence tools. My work combines **LLM orchestration, vector search, speech-to-text, text-to-speech, and human-in-the-loop workflows** to build real-world AI products, not just demos.  
+I design and deploy **end-to-end AI pipelines** — from RAG systems and content automation to multimodal voice assistants and speech intelligence tools. My work combines **LLM orchestration, vector search, speech-to-text, text-to-speech, and human-in-the-loop workflows** to build real-world AI products for businesses.  
 
 > If you want AI systems that **work, scale, and generate value**, that’s exactly what I build.  
 
@@ -13,12 +13,12 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 
 ### 🔧 My Tech Stack
 ---
-- **Languages & Backend:** Python, Flask  
-- **AI & ML:** LLaMA 3, GPT-4, Gemini 2.0, Whisper, Deepgram, Pyannote  
+- **Languages & Backend:** Python, Flask, FastAPI
+- **AI & ML:** LLaMA, GPT, Gemini, Whisper, Deepgram, Pyannote, etc.
 - **Vector Search & RAG:** Pinecone, LangChain  
-- **Multimodal & Automation:** TTS (ElevenLabs, Google Cloud), Audio Processing, Docker, Supabase  
-- **Frontend & Interfaces:** Gradio, jQuery, HTML/CSS  
-- **Deployment:** Docker, Hugging Face Spaces, CI/CD pipelines  
+- **Multimodal & Automation:** TTS (ElevenLabs, Google Cloud, Openai), Audio Processing, Docker, Supabase  
+- **Frontend & Interfaces:** jQuery, HTML/CSS  
+- **Deployment:** Docker, Hugging Face Spaces, Google Cloud, CI/CD pipelines  
 
 ---
 
@@ -36,12 +36,12 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 - **[🎙️ AI Meeting Assistant](https://huggingface.co/spaces/onwurahben/ai-meeting-assistant)**  
   Speaker-aware transcripts, automated summaries, and shareable PDF reports.  
 
-> Each project demonstrates **full-stack AI engineering**, combining system design, orchestration, and production-ready deployment.
+> Each project demonstrates **full-stack AI engineering**, combining system design, orchestration, safeguarding, and production-ready deployment.
 
 ---
 
 ### 🤝 Let’s work together
 ---
 
- - [LinkedIn](Images/LinkedIn%20(icon%20—%20Colour).png)](https://www.linkedin.com/in/ben-onwurah/)  
- - [Twitter](Images/Twitter%20(icon%20—%20Colour).png)](https://twitter.com/_flutterbaby)  
+ - [LinkedIn](Images/LinkedIn%20(icon%20—%20Colour).png)](https://www.linkedin.com/in/ben-onwurah/)** 
+ - [Twitter](Images/Twitter%20(icon%20—%20Colour).png)](https://twitter.com/_flutterbaby)**

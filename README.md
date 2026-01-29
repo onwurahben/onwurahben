@@ -11,7 +11,7 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 
 ---
 
-### 🔧 My Tech Stack
+## 🔧 My Tech Stack
 ---
 - **Languages & Backend:** Python, Flask, FastAPI
 - **AI & ML:** LLaMA, GPT, Gemini, Whisper, Deepgram, Pyannote, etc.
@@ -22,7 +22,7 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 ---
 
 ### 1. **[📄 DocQuery – RAG Document Assistant](https://huggingface.co/spaces/onwurahben/rag-bot-v2)**  
@@ -32,7 +32,7 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 
 [Test the app here](https://huggingface.co/spaces/onwurahben/rag-bot-v2)
 
-### 2. **[✍️ Redraft: AI Content Engine](https://huggingface.co/spaces/onwurahben/redraft-v1)**  
+### 2. **[✍️ Redraft - AI Content Engine](https://huggingface.co/spaces/onwurahben/redraft-v1)**  
   Recursive AI content pipeline generating human-like LinkedIn posts with multi-LLM evaluation loops.
 
   <img width="925" height="358" alt="redraft" src="https://github.com/user-attachments/assets/09c400bf-6445-4e3a-8d20-18f4e0f98d80" />

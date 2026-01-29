@@ -1,4 +1,5 @@
-![Frame](https://github.com/onwurahben/onwurahben/blob/main/Images/github-banner.svg)
+![Banner](https://raw.githubusercontent.com/onwurahben/onwurahben/main/Images/github-banner.svg?v=1)
+
 
 ### Hi there 👋 Welcome to my GitHub!
 

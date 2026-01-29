@@ -1,4 +1,4 @@
-![Frame](https://github.com/onwurahben/onwurahben/assets/49011942/48a297c4-56f8-42fb-b338-e23bf2cbeab0)
+![Frame](https://github.com/onwurahben/onwurahben/blob/main/Images/github-banner.svg)
 
 ### Hi there 👋 Welcome to my GitHub!
 ---

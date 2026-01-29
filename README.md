@@ -32,7 +32,7 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 
 [Test the app here](https://huggingface.co/spaces/onwurahben/rag-bot-v2)
 
-### 2. **[✍️ Redraft AI Content Engine](https://huggingface.co/spaces/onwurahben/redraft-v1)**  
+### 2. **[✍️ Redraft: AI Content Engine](https://huggingface.co/spaces/onwurahben/redraft-v1)**  
   Recursive AI content pipeline generating human-like LinkedIn posts with multi-LLM evaluation loops.
 
   <img width="925" height="358" alt="redraft" src="https://github.com/user-attachments/assets/09c400bf-6445-4e3a-8d20-18f4e0f98d80" />
@@ -40,7 +40,7 @@ I design and deploy **end-to-end AI pipelines** — from RAG systems and content
 [Request access](https://www.linkedin.com/in/ben-onwurah/)
 
 
-### 3. **[🎙️ AI Voice Assistant](https://huggingface.co/spaces/onwurahben/voice-assistant)**  
+### 3. **[🎙️ AI Voice Chatbot](https://huggingface.co/spaces/onwurahben/voice-assistant)**  
   Low-latency conversational AI with speech-to-text, LLM reasoning, and text-to-speech responses.
 
   <img width="749" height="345" alt="voice-assistant" src="https://github.com/user-attachments/assets/e3fa8483-4d5f-4a4b-aacc-26d239692f87" />
